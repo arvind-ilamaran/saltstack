@@ -1,0 +1,21 @@
+os:
+ pkg:
+  - installed
+  - pkgs:
+     - gfortran
+     - inkscape
+     - cifs-utils
+     - markdown
+     - ntp
+     - vim
+     - wine
+     - transfig
+     - patch
+     - kile
+     - emacs23
+     - ess
+     - libcurl4-openssl-dev
+     - ispell
+     - emacs-goodies-el
+     - ibritish
+     - r-base-core 

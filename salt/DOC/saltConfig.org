@@ -1,0 +1,94 @@
+* Types of minions
+** Debian OS - Wheezy and Squeeze
+** Ubuntu OS - 12.04(precise)
+** MAC OSX
+
+* Common packages:
+** R(3.1.2) - Pumpkin Helmet
+*** r-base
+*** r-base-dev
+*** R Packages:
+**** doMC
+**** parallel
+**** ggplot2
+**** eventstudies
+**** knitr
+**** FactorMineR
+**** bayesGARCH
+**** bayesm
+**** BAYSTAR
+**** bigmemory
+**** Hmisc
+**** snow
+**** reshape2
+**** bootstrap
+**** ccgarch
+**** ctv
+**** DBI
+**** RMySQL
+**** SQLite
+**** doSNOW
+**** e1071
+**** ElemStatLearn
+**** ESG
+**** ff
+**** fGarch
+**** FGN
+**** FitARMA
+**** foreach
+**** forecast
+**** fxregime
+**** gdata
+**** gmm
+**** GridR
+**** LearnBayes
+**** Matching
+**** moments
+**** mvProbit
+**** mvtnorm
+**** quantmod
+**** randomForest
+**** Rcpp
+**** rrcov
+**** scaleboot
+**** snowfall
+**** strucchange
+**** tsdb (need to run the bash script)
+**** tseries
+**** xtable
+**** xts
+**** zoo
+
+** Compiler and OS packages
+*** gfortran
+*** inkscape 
+*** cifs-utils
+*** vim
+*** ntp
+*** wine
+*** transfig
+*** patch
+
+** Emacs packages
+*** emacs23
+*** ispell
+*** ess
+*** emacs-goodies-el
+*** el-get
+*** artbollock
+*** ibritish
+
+** LaTeX
+*** texlive-full
+*** auctex
+*** pandoc
+*** markdown
+*** pandoc-citeproc
+*** latex2rtf
+*** xpdf
+*** kile
+
+** Web
+*** openssh-server 
+*** subversion
+

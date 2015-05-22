@@ -1,0 +1,6 @@
+tex:
+ pkg:
+  - texlive-full
+  - auctex
+  - markdown
+

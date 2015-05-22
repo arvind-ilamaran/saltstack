@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repositories/salt/!svn/ver/1/RESOURCES
+END
+minion_sampleConfig
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repositories/salt/!svn/ver/1/RESOURCES/minion_sampleConfig
+END
+master_sampleConfig
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repositories/salt/!svn/ver/1/RESOURCES/master_sampleConfig
+END
